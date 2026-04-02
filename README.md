@@ -1,2 +1,2 @@
-![Metrics](/metrics-left.svg)
-![Metrics](/metrics-right.svg)
+[<img align="left" width="390" src="https://github.com/itsgeegeez/itsGeeGeez/blob/main/metrics-left.svg">](https://l7y.ca)
+[<img align="right" width="390" src="https://github.com/itsgeegeez/itsGeeGeez/blob/main/metrics-right.svg">](https://l7y.ca)
